@@ -1,0 +1,9 @@
+{
+    "host": "192.168.35.228",
+    "cmd_api": "http://192.168.35.199", 
+    "server_gate":"http://192.168.35.199:8000/api/upload",
+    "flagged_gate":"http://192.168.35.199:8000/api/flagged",
+    "flagged_list":"http://192.168.35.199:8000/api/getlist",
+    "location": "Gebeya",
+    "deviceid": "punit_001"
+}

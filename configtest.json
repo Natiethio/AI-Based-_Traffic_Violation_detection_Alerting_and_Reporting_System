@@ -1,0 +1,77 @@
+{
+    "red_light_line": {
+        "red_line_start": {
+            "x": 95,
+            "y": 311
+        },
+        "red_line_end": {
+            "x": 1447,
+            "y": 147
+        }
+    },
+    "licenseplate_line": {
+        "licenseplate_line_start": {
+            "x": 48,
+            "y": 210
+         
+        },
+        "licenseplate_line_end": {
+            
+            "x": 1447,
+            "y": 80
+        }
+    },  
+    "speed_test_line": {
+        "green_line_start": {
+            "x": 23,
+            "y": 150
+        },
+        "green_line_end": {
+           "x": 1447,
+            "y": 60
+        },
+        "blue_line_start": {
+            "x": 23,
+            "y": 300
+        },
+        "blue_line_end": {
+            "x": 900,
+            "y": 110
+        }
+    },
+    "lane": {
+        "number_of_lanes": "3",
+        "lanes": [ 
+            {
+                "lane_start": {
+                    "x": 640,
+                    "y": 3
+                },
+                "lane_end": {
+                    "x": 947,
+                    "y": 250
+                }
+            },
+            {
+                "lane_start": {
+                    "x": 328,
+                    "y": 58
+                },
+                "lane_end": {
+                    "x": 677,
+                    "y": 457
+                }
+            },
+            {
+                "lane_start": {
+                    "x": 27,
+                    "y": 104
+                },
+                "lane_end": {
+                    "x": 219,
+                    "y": 410
+                }
+            }
+        ]
+    }
+}
